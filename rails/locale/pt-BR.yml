@@ -136,6 +136,10 @@ pt-BR:
       create: Criar %{model}
       submit: Salvar %{model}
       update: Atualizar %{model}
+    links: 
+      new: 'Novo'
+      edit: 'Editar'
+      delete: 'Remover'
   number:
     currency:
       format:
